@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BhanuRNagpure
 - 👀 I’m interested in ... Android development and programming
-- 🌱 I’m currently learning ... cpp
+- 🌱 I’m currently learning ... Machine learning and concepts of programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
 
 <!---
 BhanuRNagpure/BhanuRNagpure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
